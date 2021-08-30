@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/games"
+        android:enabled="true"
+        android:icon="@drawable/game"
+        android:title="Games"
+        />
+    <item
+        android:id="@+id/apps"
+        android:enabled="true"
+        android:icon="@drawable/chat"
+        android:title="Apps"
+      />
+    <item
+        android:id="@+id/movies_tv"
+        android:enabled="true"
+        android:icon="@drawable/shop"
+        android:title="Movies &amp; TV"/>
+    <item
+        android:id="@+id/books"
+        android:enabled="true"
+        android:icon="@drawable/bonus"
+        android:title="Books"/>
+
+        />
+</menu>

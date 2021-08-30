@@ -1,0 +1,30 @@
+[
+  {
+    "list_title":"Favorites",
+    "games":[
+      {"title":"RAID: ShadowLegends","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+01.jpg"},
+      {"title":"YAHTZEE® With Buddies DiceGame","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+02.jpg"},
+      {"title":"Solitaire Grand Harvest - Free TripeaksSolitaire","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+03.jpg"},
+      {"title":"Bingo Blitz™ - BingoGames","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+04.jpg"},
+      {"title":"Slotomania™ Free Slots: Casino Slot MachineGames","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+05.jpg"},
+      {"title":"Caesars Casino: Free SlotsGames","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+06.jpg"},
+      {"title":"Bingo Pop - Live Multiplayer Bingo Games forFree","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+07.jpg"},
+      {"title":"Big Farm: Mobile Harvest – Free FarmingGame","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+08.jpg"},
+      {"title":"Word Life - Connect crosswordspuzzle","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+09.jpg"},
+      {"title":"Wheel of Fortune: FreePlay","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fav+10.jpg"}
+    ]
+  },
+  {
+    "list_title":"Fantasy games",
+    "games":[
+      {"title":"MonsterLegends","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fantasy+01.jpg"},
+      {"title":"Park of Monster","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fantasy+02.jpg"},
+      {"title":"Dragon Mania Legends","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fantasy+03.jpg"},
+      {"title":"Lords Mobile: Kingdom Wars","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fantasy+04.jpg"},
+      {"title":"Forged Fantasy","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fantasy+05.jpg"},
+      {"title":"Dragon Storm Fantasy","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fantasy+06.jpg"},
+      {"title":"Eternium","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fantasy+07.jpg"},
+      {"title":"Fantasy Forest: Magic Masters!","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+fantasy+08.jpg"}
+    ]
+  }
+]

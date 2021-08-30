@@ -1,0 +1,17 @@
+[
+  {
+    "list_title":"Offline Games",
+    "games":[
+      {"title":"Best Fiends - Free Puzzle Game","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+01.jpg"},
+      {"title":"Solitaire Tripeaks: Farm Adventure","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+02.jpg"},
+      {"title":"Farm Heroes Saga","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+03.jpg"},
+      {"title":"Candy Crush Soda Saga","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+04.jpg"},
+      {"title":"Puzzly Puzzle Game Collection","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+05.jpg"},
+      {"title":"Color Switch","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+06.jpg"},
+      {"title":"Tetris","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+07.jpg"},
+      {"title":"Hill Climb Racing","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+08.jpg"},
+      {"title":"Sudoku - Free Classic Sudoku Puzzles","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+09.jpg"},
+      {"title":"Word Crush - Fun Word Puzzle Game","img":"https://mygoogleplaypics.s3.ca-central-1.amazonaws.com/google+offline+10.jpg"}
+    ]
+  }
+]
